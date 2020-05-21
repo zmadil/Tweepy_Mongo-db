@@ -9,8 +9,8 @@
 - MongoDB 
 
 ### Setup:
-- Have MongoDB installed on localhost, and create a database called TwitterStream
-- Open the script and add the keywords or hashtags you want to track to the "keywords" variable
+- Have MongoDB installed on localhost, and create a database.
+- Open the script and add the keywords or hashtags you want to track in the required field
 - Watch as tweets are collected in real time and getting stored in MongoDB.
 
 
