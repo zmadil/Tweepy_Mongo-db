@@ -1,6 +1,7 @@
 # Tweepy to Mongo.
 - Create a python script that uses the Tweepy library to pull Tweets with specific keywords from Twitter's Streaming API, and then stores the important fields from the Tweet in a MongoDB collection.
-- The API that I have used is called Twitter Streaming API which will give you real-time data from 8 hours to present.
+- The API that I have used is called Twitter Streaming API which will give you real-time data from 8 hours to present. The Twitter Streaming API is ideal for grabbing data in real-time and storing it for analysis
+
 
 ### Dependencies:
 - Tweepy
