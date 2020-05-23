@@ -5,6 +5,6 @@
 - We need to install the latest version of Python. Download this here https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe
 - We need to install the MongoDB server before installing the Compass version. We can download that through here https://www.mongodb.com/download-center/community
 - Now we need to install MongoDb Compass as well. We can download this through here. https://www.mongodb.com/download-center/compass
-- Go to Anaconda Terminal and type:
+- Go to Anaconda Terminal Prompt and type:
   - pip install tweepy 
   - pip install pymongo[srv]
